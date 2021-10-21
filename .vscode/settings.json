@@ -7,5 +7,6 @@
     "python.testing.pytestEnabled": true,
     "liveshare.allowGuestTaskControl": true,
     "liveshare.allowGuestDebugControl": true,
-    "testing.automaticallyOpenPeekViewDuringAutoRun": true
+    "testing.automaticallyOpenPeekViewDuringAutoRun": true,
+    "editor.formatOnSave": true
 }
