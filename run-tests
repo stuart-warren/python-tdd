@@ -1,0 +1,5 @@
+#!/bin/bash
+
+while true; do
+    ls -d tests/*.py | entr -d pytest --cov .
+done
